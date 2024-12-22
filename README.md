@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm an enthusiastic learner and a passionate tech explorer
 - Tech Education:I’m also keen on collaborating on educational platforms or content related to technology and programming.
 
 ### 📫 How to reach me:
-- Email: [snehasinghb112@gmail.com](mailto:snehasinghb112@gmail.com)
+- Email: [Email me](mailto:snehasinghrs7269@gmail.com)
 - LinkedIn: [linkedin.com/in/sneha-singh-6ab355321](https://www.linkedin.com/in/sneha-singh-6ab355321/)
 - Instagram:[@Sneha_Dev]()
 - Portfolio: [sneha](https://meek-croissant-773a1d.netlify.app/) – check out my personal projects and case studies!
