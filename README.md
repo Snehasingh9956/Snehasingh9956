@@ -38,7 +38,9 @@ Welcome to my GitHub! I'm an enthusiastic learner and a passionate tech explorer
     
 ### 🌱 Other Interests & Activities:
 📝 Blogging & Tutorials: I write about coding, machine learning, web development, and tech trends. Check out my blog on Medium.
+
 💻 Hackathons & Competitions: I actively participate in coding challenges and hackathons to test my skills and collaborate with others.
+
 📚 Tech Mentorship: I'm passionate about mentoring new developers and helping them navigate the world of coding. Feel free to reach out if you're starting your programming journey!
 
 ### 🌍 Other Projects/Interests:
